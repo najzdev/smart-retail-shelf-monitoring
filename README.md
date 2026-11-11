@@ -1,11 +1,18 @@
 # Smart Retail Shelf Monitoring
 
-**NAJZ Dev — Hamza Labbaalli Lab**  
+**NAJZ Dev - Hamza Labbaalli Lab**  
 Team: Hamza Labbaalli, Abdelouahed Id-boubrik, Yassine Maarouf, and Imane Idhaddou.
 
 A simple computer-vision application that uses YOLOv8 to detect products on a
 retail shelf and display a live stock report in a Tkinter dashboard. The
 project is designed to run on a computer or a Raspberry Pi 5.
+
+## Raspberry Pi 5
+
+The monitor can run on a Raspberry Pi 5, using a small YOLOv8 model and a
+moderate video resolution for better performance.
+
+![Raspberry Pi 5](assets/raspberry-pi-5.png)
 
 ## Features
 
@@ -89,5 +96,5 @@ python verify_model.py
 
 ## Credits
 
-Created by **NAJZ Dev — Hamza Labbaalli Lab** with **Abdelouahed Id-boubrik,
+Created by **NAJZ Dev - Hamza Labbaalli Lab** with **Abdelouahed Id-boubrik,
 Yassine Maarouf, and Imane Idhaddou**.
